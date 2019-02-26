@@ -1,0 +1,6 @@
+
+request:
+{"url":"http://url"}
+
+response:
+{"status":"success","data":{"message":"Link added"}}
