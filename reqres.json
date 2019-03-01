@@ -4,3 +4,18 @@ request:
 
 response:
 {"status":"success","data":{"message":"Link added"}}
+
+article json:
+{
+    "_id" : "Qy3J6LRy8z5bSySWv",
+    "author" : "Kyle Buchanan",
+    "date" : "2019-02-21T19:30:55.000Z",
+    "description" : "Our expert has been closely following the races and the voters, all season. Here’s what he thinks will happen at the ceremony on Sunday.",
+    "image" : "https://static01.nyt.com/images/2019/02/22/arts/22oscar-predictions-picture/22oscar-predictions-picture-facebookJumbo.jpg",
+    "logo" : "https://www.nytimes.com/vi-assets/static-assets/apple-touch-icon-319373aaf4524d94d38aa599c56b8655.png",
+    "publisher" : "NYTimes",
+    "title" : "Oscars 2019 Predictions: Who Will Win Best Picture, Actor and Actress",
+    "url" : "https://www.nytimes.com/2019/02/21/movies/oscars-2019-nominations-predictions.html",
+    "createdAt" : "2019-02-24T22:14:50.578Z",
+    "createdBy" : "M5PiXusffGZryXdMh"
+},
